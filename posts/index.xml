@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jiri Knesl</title>
-    <link>http://knesl.com/tags/</link>
-    <description>Recent content in Tags on Jiri Knesl</description>
+    <title>Posts on Jiri Knesl</title>
+    <link>http://knesl.com/posts/</link>
+    <description>Recent content in Posts on Jiri Knesl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jun 2020 21:05:40 +0100</lastBuildDate>
     
-	<atom:link href="http://knesl.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://knesl.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     

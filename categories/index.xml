@@ -10,5 +10,19 @@
 	<atom:link href="http://knesl.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://knesl.com/posts/my-first-post/</link>
+      <pubDate>Sat, 13 Jun 2020 21:05:40 +0100</pubDate>
+      
+      <guid>http://knesl.com/posts/my-first-post/</guid>
+      <description>What is this all about? I am Jiri Knesl, CEO of Flexiana, lifelong learner, reader, traveler. On this website, I will show my work, life and thoughts.
+safd safd safd safd </description>
+    </item>
+    
+    
   </channel>
 </rss>
