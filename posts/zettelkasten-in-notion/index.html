@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="shortcut icon" href="http://knesl.com/favicon.ico">
+    
+    <link rel="stylesheet" href="/css/style.min.css">
+
+    <title>Zettelkasten in Notion</title>
+</head>
+<body><header id="banner">
+    <h2><a href="http://knesl.com/">Jiri Knesl</a></h2>
+    <nav>
+        <ul>
+            <li><a href="http://knesl.com/">posts</a></li>
+            
+            <li>
+                <a href="http://knesl.com/about/">About</a>
+            </li>
+            
+        </ul>
+    </nav>
+</header>
+<main id="content">
+<article>
+    <header id="post-header">
+        <h1>Zettelkasten in Notion</h1><time>June 24, 2020</time></header><p>ZettelKasten is a form of personal knowledge base. I will describe it later.</p>
+<p>But the point of ZettelKasten is to have:</p>
+<ul>
+<li>short notes</li>
+<li>one note describes one topic, they are brief</li>
+<li>alternatively, card is a hub, index for other cards, a reference, entry point</li>
+<li>notes link to other cards when they are related</li>
+</ul>
+<p>As I use Notion as my inbox, weekly plan, idea storage, journal, I was thinking how to add even my personal knowledge database. So I have built myself an easy implementation.</p>
+<p>In my implementation, I use:</p>
+<ul>
+<li>One card is one topic</li>
+<li>I have Hub cards that are entry points</li>
+<li>I tag my cards</li>
+<li>I link cards and I want backlinks too (when I link between cards, it creates a backlink automatically)</li>
+</ul>
+<p>My Zettel home looks like this. This is a list of hubs. I have current hubs (links) and I have hubs I plan to create (these are just text notes).</p>
+<p><img src="/zettelkasten-in-notion/zettelkasten-home.png" alt="Zettelkasten Home"></p>
+<p>Just below hubs, I have a table with my cards. These are very simple.</p>
+<p>They have a name, tags, links and backlinks and contents.</p>
+<p><img src="/zettelkasten-in-notion/zettelkasten-data.png" alt="Zettelkasten Data"></p>
+<p>Within a card (like a Strategy hub here) I can have contents or the contents are empty and the hub is just walkthrough (like learning hub).</p>
+<p><img src="/zettelkasten-in-notion/zettelkasten-strategy-hub.png" alt="Zettelkasten Hub with data">
+<img src="/zettelkasten-in-notion/zettelkasten-learning-hub.png" alt="Zettelkasten Hub with links only"></p>
+<p>Advantages of this is that every single note is easy to link with each other, I get backlinks for free. Also, it is very easy to link to any card Notion-wide.
+But there are two disadvantages. First, Notion is not very fast. Working with Obsidian.md, Roam Research, Bear is very fast. So one must sometimes wait for links to show up.
+I believe Notion will figure it out over time. I am very commited to using Notion. After years in Day One, years in OneNote, years in Bear, I believe Notion is really Next Big Thing for me.</p>
+<p>Second, there&rsquo;s no way I am aware of to really enter new card with a keyboard shortcut into a database within Notion. In this moment, I have a couple of inboxes (I experiment with Drafts app, I have short notes inbox in Notion, long notes inbox in Notion, 2Do inbox, lots of notes to walk through in Bear, OneNote and Day One).</p>
+</article>
+
+        </main><footer id="footer">
+  <a href="mailto:jiri@flexiana.com">Let's get in touch</a>
+    
+</footer> 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1943987-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1943987-3');
+</script>
+
+</body>
+</html>

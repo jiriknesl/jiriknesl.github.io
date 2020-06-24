@@ -6,9 +6,22 @@
     <description>Recent content on Jiri Knesl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2020 21:05:40 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 12:10:34 +0100</lastBuildDate>
     
 	<atom:link href="http://knesl.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Zettelkasten in Notion</title>
+      <link>http://knesl.com/posts/zettelkasten-in-notion/</link>
+      <pubDate>Wed, 24 Jun 2020 12:10:34 +0100</pubDate>
+      
+      <guid>http://knesl.com/posts/zettelkasten-in-notion/</guid>
+      <description>ZettelKasten is a form of personal knowledge base. I will describe it later.
+But the point of ZettelKasten is to have:
+ short notes one note describes one topic, they are brief alternatively, card is a hub, index for other cards, a reference, entry point notes link to other cards when they are related  As I use Notion as my inbox, weekly plan, idea storage, journal, I was thinking how to add even my personal knowledge database.</description>
+    </item>
     
     
     
