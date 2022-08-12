@@ -1,38 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>http://knesl.com/posts/ekonomove-nerozumi-podnikani/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://knesl.com/</loc>
-    <lastmod>2020-06-24T12:10:34+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://knesl.com/posts/</loc>
-    <lastmod>2020-06-24T12:10:34+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://knesl.com/posts/zettelkasten-in-notion/</loc>
     <lastmod>2020-06-24T12:10:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://knesl.com/about/</loc>
     <lastmod>2020-06-17T09:09:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://knesl.com/posts/my-first-post/</loc>
-    <lastmod>2020-06-13T21:05:40+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://knesl.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://knesl.com/tags/</loc>
   </url>
-  
 </urlset>
